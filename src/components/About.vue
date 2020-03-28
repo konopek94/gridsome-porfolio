@@ -15,20 +15,14 @@
         class="lead mb-5"
       >I am experienced in Vue.js and React.js in which I produce high quality code for my clients that are both well performing and well tested. Passionate about Progressive Web Applications and Server-Side Rendering solutions. I focus on solving problems, not only technical problems but creating an awesome experience for the users of my software both visual and accessible. Mixing powerful tools and knowledge about the users brings visual UI's to life and leads to webpages being accessible and useful.</p>
       <div class="social-icons">
-        <a href="https://linkedin.com/in/michalkonopka" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/michal-konopka-frontend-dev" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
         </a>
-        <a href="https://github.com/michalkonopka" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/konopek94" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'github']"/>
         </a>
-        <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://twitter.com/konopekmichal" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'twitter']"/>
-        </a>
-        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fab', 'facebook']"/>
-        </a>
-        <a href="https://michalkonopka.pl" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fas', 'rss']"/>
         </a>
       </div>
     </div>
