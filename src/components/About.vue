@@ -7,7 +7,7 @@
         class="img-fluid img-profile rounded-circle mx-auto mb-2 d-lg-none"
         width="150"
         quality="95"
-      />
+      ></g-image>
       <h1 class="mb-0">
         Michał
         <span class="text-primary">Konopka</span>
@@ -27,13 +27,13 @@
           target="_blank"
           rel="noopener noreferrer"
         >
-          <font-awesome :icon="['fab', 'linkedin']" />
+          <font-awesome :icon="['fab', 'linkedin']"></font-awesome>
         </a>
         <a href="https://github.com/konopek94" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fab', 'github']" />
+          <font-awesome :icon="['fab', 'github']"></font-awesome>
         </a>
         <a href="https://twitter.com/konopekmichal" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fab', 'twitter']" />
+          <font-awesome :icon="['fab', 'twitter']"></font-awesome>
         </a>
       </div>
     </div>

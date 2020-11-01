@@ -8,7 +8,7 @@
           src="~/assets/images/profile.jpg"
           class="img-fluid img-profile rounded-circle mx-auto mb-2"
           quality="98"
-        />
+        ></g-image>
       </span>
     </div>
 
