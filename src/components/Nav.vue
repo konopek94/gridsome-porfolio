@@ -1,11 +1,11 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <span class="d-block d-lg-none">Michał Konopka</span>
+      <span class="d-block d-lg-none">Michał Konopka Developer</span>
       <span class="d-none d-lg-block">
         <g-image
           alt="Image of Michal"
-          src="../assets/images/profile.jpg"
+          src="~/assets/images/profile.jpg"
           class="img-fluid img-profile rounded-circle mx-auto mb-2"
         />
       </span>
