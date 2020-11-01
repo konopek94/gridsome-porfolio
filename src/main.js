@@ -74,8 +74,4 @@ export default function (Vue, {
     rel: 'stylesheet',
     href: 'https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i'
   })
-  head.meta.push({
-    name: 'title',
-    content: 'Michał Konopka Frontend Developer'
-  })
 }
