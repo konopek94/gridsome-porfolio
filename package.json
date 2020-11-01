@@ -14,12 +14,12 @@
     "@gridsome/plugin-google-analytics": "^0.1.0",
     "@gridsome/plugin-sitemap": "^0.1.1",
     "@gridsome/source-filesystem": "^0.3.0",
-    "@gridsome/transformer-remark": "^0.2.1",
+    "@gridsome/transformer-remark": "^0.6.3",
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.0-rc.18",
     "gridsome": "^0.7.11",
     "node-sass": "^4.11.0",
-    "npm": "^6.9.0",
+    "npm": "^7.0.7",
     "sass-loader": "^7.1.0",
     "vue-scrollto": "^2.15.0"
   }
