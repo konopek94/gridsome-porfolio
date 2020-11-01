@@ -6,6 +6,7 @@
         src="~/assets/images/profile.jpg"
         class="img-fluid img-profile rounded-circle mx-auto mb-2 d-lg-none"
         width="150"
+        quality="95"
       />
       <h1 class="mb-0">
         Michał
