@@ -6,37 +6,37 @@
       <div class="subheading mb-3">Programming Languages &amp; Tools</div>
       <ul class="list-inline dev-icons">
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'html5']"/>
+          <font-awesome :icon="['fab', 'html5']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'css3-alt']"/>
+          <font-awesome :icon="['fab', 'css3-alt']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'js-square']"/>
+          <font-awesome :icon="['fab', 'js-square']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'vuejs']"/>
+          <font-awesome :icon="['fab', 'vuejs']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'react']"/>
+          <font-awesome :icon="['fab', 'react']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'node-js']"/>
+          <font-awesome :icon="['fab', 'node-js']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'sass']"/>
+          <font-awesome :icon="['fab', 'sass']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'wordpress']"/>
+          <font-awesome :icon="['fab', 'wordpress']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'gulp']"/>
+          <font-awesome :icon="['fab', 'gulp']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'bootstrap']"/>
+          <font-awesome :icon="['fab', 'bootstrap']"></font-awesome>
         </li>
         <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'npm']"/>
+          <font-awesome :icon="['fab', 'npm']"></font-awesome>
         </li>
       </ul>
 
