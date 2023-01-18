@@ -1,0 +1,37 @@
+[
+  {
+    "position": "Software Engineer",
+    "company": "intive",
+    "projectName": "SVOD and TVE app",
+    "projectDesc": "React developer - SVOD and TVE app for an American multinational broadcasting company -  A&E Networks (Next.js, GraphQL, Redux, Context API, Hooks). Developing shared codebase monorepo (Lerna), being responsible for implementing shared state (context API), lazy loading, handling keyboard navigation, integration with auth flow API.",
+    "time": "February 2021 - present"
+  },
+  {
+    "position": "Frontend Developer",
+    "company": "Unity Group",
+    "projectName": "B2B and B2C eCommerce multi stores system",
+    "projectDesc": "Cloud platform created on AWS, Kotlin and Vue.js (SSR), designed for small and medium-sized companies in the industrial sector. The project started in Q4 2018 and I have been working on it since the beginning. My responsibilities include application development and maintenance – using Nuxt.js, Vuex and TypeScript, assuring the highest quality of the application’s performance. The project is managed using an agile methodology – SCRUM.",
+    "time": "September 2018 - February 2021"
+  },
+  {
+    "position": "Web Developer",
+    "company": "Ogilvy",
+    "projectName": "E-learning web application",
+    "projectDesc": "Created in React.js and Redux PWA app aimed at engaging employees to progressively gain more knowledge about their company and how to communicate with their clients more effectively. The application includes a storytelling adventure with many quizzes, points, ranking and rewards system.  My tasks evolved around app development (React, Redux, Axios), testing on different mobile and desktop devices, optimizing graphics (SVG) for various device responsiveness, consulting application interface with backend developers.",
+    "time": "September 2017 - August 2018"
+  },
+  {
+    "position": "Junior Web Developer",
+    "company": "Lama Media",
+    "projectName": "",
+    "projectDesc": "Working in SCRUM - Agile framework on various web projects, simultaneously on front- and back-end side. Being clients supporter and a person responsible for websites maintenance.Creating SEO-friendly, semantically correct codes consistent with responsive web design. Optimizing page load speed in accordance with Google Page Speed guidelines. Utilizing JS, HTML5, PHP, SASS, Gulp, MySQL and GitHub for the majority of tasks",
+    "time": "July 2016 - September 2017"
+  },
+  {
+    "position": "Web Developer Intern",
+    "company": "Red Dragon Media",
+    "projectName": "",
+    "projectDesc": "Intern in Frontend Development sector. Creating website from PSD to HTML using HTML5, CSS, jQuery, SASS, Gulp and Bootstrap.",
+    "time": "July 2015 - October 2015"
+  }
+]

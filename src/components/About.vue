@@ -13,7 +13,7 @@
         <span class="text-primary">Konopka</span>
       </h1>
       <div class="subheading mb-5">
-        Frontend Developer · 690 551 387 ·
+        Frontend Developer · +48 690 551 387 ·
         <a
           href="mailto:hello@michalkonopka.pl"
         >hello@michalkonopka.pl</a>
